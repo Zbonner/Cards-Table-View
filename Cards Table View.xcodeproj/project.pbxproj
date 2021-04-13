@@ -15,6 +15,7 @@
 		36E2F6022625C1A700E084F1 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 36E2F6002625C1A700E084F1 /* LaunchScreen.storyboard */; };
 		36E2F60D2625C1A800E084F1 /* Cards_Table_ViewTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 36E2F60C2625C1A800E084F1 /* Cards_Table_ViewTests.swift */; };
 		36E2F6182625C1A800E084F1 /* Cards_Table_ViewUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 36E2F6172625C1A800E084F1 /* Cards_Table_ViewUITests.swift */; };
+		36E2F6292625C1EE00E084F1 /* Cards.swift in Sources */ = {isa = PBXBuildFile; fileRef = 36E2F6282625C1EE00E084F1 /* Cards.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		36E2F6132625C1A800E084F1 /* Cards Table ViewUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Cards Table ViewUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		36E2F6172625C1A800E084F1 /* Cards_Table_ViewUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Cards_Table_ViewUITests.swift; sourceTree = "<group>"; };
 		36E2F6192625C1A800E084F1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		36E2F6282625C1EE00E084F1 /* Cards.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Cards.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 				36E2F5F52625C1A300E084F1 /* AppDelegate.swift */,
 				36E2F5F72625C1A300E084F1 /* SceneDelegate.swift */,
 				36E2F5F92625C1A300E084F1 /* ViewController.swift */,
+				36E2F6282625C1EE00E084F1 /* Cards.swift */,
 				36E2F5FB2625C1A300E084F1 /* Main.storyboard */,
 				36E2F5FE2625C1A700E084F1 /* Assets.xcassets */,
 				36E2F6002625C1A700E084F1 /* LaunchScreen.storyboard */,
@@ -261,6 +264,7 @@
 				36E2F5FA2625C1A300E084F1 /* ViewController.swift in Sources */,
 				36E2F5F62625C1A300E084F1 /* AppDelegate.swift in Sources */,
 				36E2F5F82625C1A300E084F1 /* SceneDelegate.swift in Sources */,
+				36E2F6292625C1EE00E084F1 /* Cards.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
